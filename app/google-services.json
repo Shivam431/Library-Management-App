@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "597975052119",
+    "firebase_url": "https://loginregisterapp-915e3.firebaseio.com",
+    "project_id": "loginregisterapp-915e3",
+    "storage_bucket": "loginregisterapp-915e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597975052119:android:e2d3ee2b8c822c073b1812",
+        "android_client_info": {
+          "package_name": "com.example.loginregisterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597975052119-loblvan806jrplaidh9tfsedsis0q4uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMSIh1Gx3LkQPnHo3STV9_FLLrshsi7hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597975052119-loblvan806jrplaidh9tfsedsis0q4uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
